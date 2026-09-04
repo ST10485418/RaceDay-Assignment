@@ -82,7 +82,7 @@ RaceDay/
 │   ├── RaceDay_ERD.pdf
 │   └── RaceDay_API_Endpoint_Plan.pdf
 │
-├── RDME.md
+├── README.md
 │
 └── Video/
     └── RaceDay_Presentation.mp4
