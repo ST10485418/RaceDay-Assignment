@@ -66,7 +66,7 @@ These relationships help maintain data integrity and reduce unnecessary duplicat
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
 - SQL
-- Entity Relatonship Diagram (ERD)
+- Entity Relationship Diagram (ERD)
 - REST API Endpoint Planning
 - GitHub
 
