@@ -36,7 +36,7 @@ The RaceDay database contains the following entities:
 4. EventCategories
    - Links events with their applicable categories.
 
-5. Elments
+5. Enrolments
    - Records users who enrol for events.
 
 6. Results
