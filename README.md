@@ -15,7 +15,7 @@ The main objectives of the RaceDay database are to:
 - Store and manage race events.
 - Manage event categories.
 - Record user enrolments for events.
-- Store re routes.
+- Store race routes.
 - Record race results.
 - Maintain relationships between the different entities.
 - Provide a structured database that can support a RaceDay application and API.
