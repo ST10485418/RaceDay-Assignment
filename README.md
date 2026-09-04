@@ -7,7 +7,7 @@ RaceDay is a relational database system designed to manage events, users, catego
 
 The database was designed using the provided business requirements and Entity Relationship Diagram (ERD). The project demonstrates the use of relational database concepts, SQL Server, primary keys, foreign keys, relationships, constraints, and an API Endpoint Plan.
 
- Project Objectives
+ Project Objectiv
 
 The main objectives of the RaceDay database are to:
 
